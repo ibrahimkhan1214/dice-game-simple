@@ -1,0 +1,35 @@
+#go-btn{
+    position: relative;
+    top:80px;
+    left: 20cm;
+    padding: 15px 50px;
+    color: #fff;
+    background-color: #e74a52;
+    border: none;
+    font-size: 20px;
+    border-radius: 20px; 
+    box-shadow: 1px 3px #50514F;
+    outline: none;
+    transition: .3s; 
+}
+#dice1{
+    position: relative;
+    top: 7.3cm;
+    left: 14.5cm;
+}
+#dice2{
+    position: relative;
+    left: 24.5cm;
+}
+.dice{
+    position: relative;
+    left: 10cm;
+    border-radius: 20%;
+}
+h1{
+    position: relative;
+    font-size: 80px;
+    text-align: center;
+    top: 2cm;
+    right: 2cm;
+}
